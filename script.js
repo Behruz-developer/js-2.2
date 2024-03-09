@@ -10,7 +10,6 @@ if(age <= 18){
     alert('Pensionega o\'xshaysiz, hali tirik bo\'lsangiz')
 }else{
     alert("Nimadir noto'g'ri ketib qoldi")
-}
-
+}   
 
 

@@ -11,5 +11,3 @@ if(age <= 18){
 }else{
     alert("Nimadir noto'g'ri ketib qoldi")
 }   
-
-
